@@ -1,3 +1,4 @@
+# Docker Compose com network bridge para o projeto Bookstore
 services:
   db:
     image: postgres:13.0-alpine
