@@ -2,7 +2,7 @@
 name = "bookstore"
 version = "0.1.0"
 description = "BookStore API"
-authors = ["José Mario <joosemariovm@gmail.com>"]
+authors = ["Analice <analice.leite12@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]

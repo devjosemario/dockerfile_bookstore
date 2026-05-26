@@ -8,7 +8,7 @@ def update(request):
     if request.method == "POST":
         try:
             # Defina o caminho para o seu repositório
-            repo_dir = '/home/DevJoseMario/bookstore'
+            repo_dir = '/home/Analice/bookstore'
             
             # Comando de git pull usando subprocess
             result = subprocess.run(
